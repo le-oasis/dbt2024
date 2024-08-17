@@ -1,0 +1,13 @@
+requests
+dbt-core==1.6.1
+duckdb==0.9.0
+dbt-duckdb==1.6.0
+# dbt-postgres
+# dbt-sqlserver
+# dbt-redshift
+# dbt-snowflake
+# dbt-bigquery
+# dbt-presto
+# dbt-spark
+# dbt-athena
+# dbt-exasol
